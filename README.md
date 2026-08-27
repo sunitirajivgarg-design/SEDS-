@@ -1,3 +1,5 @@
+<img width="959" height="402" alt="image" src="https://github.com/user-attachments/assets/9c0f8845-a73f-475b-8341-10e9ab120f98" />
+<img width="845" height="368" alt="image" src="https://github.com/user-attachments/assets/db899a27-4f73-47bc-ba13-fd58738ab728" />
 The two major challenges that i faced
 1. Removing Glitches (Outlier Rejection)
  Challenge: Real sensors often produce massive, unrealistic spikes (like dropping 50 meters in 1 second)
